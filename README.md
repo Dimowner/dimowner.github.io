@@ -1,27 +1,19 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [New Age](http://startbootstrap.com/template-overviews/new-age/)
+# Cayman theme
 
-[New Age](http://startbootstrap.com/template-overviews/new-age/) is a web app landing page theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+Cayman is a clean, responsive theme for [GitHub Pages](https://pages.github.com). This theme is available as an option if you use the [Automatic Page Generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator/) or you can copy the template and styles to use on your own.
 
-## Getting Started
+You can preview the theme at http://jasonlong.github.io/cayman-theme or with real content at http://jasonlong.github.io/geo_pattern.
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/new-age/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-new-age.git`
-* Fork the repo
+![](http://cl.ly/image/1T3r3d18311V/content)
 
-## Bugs and Issues
+# Customizations
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-new-age/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/new-age/).
+If you copy this theme for your own needs, feel free to customize the colors however you like. A couple of nice sources for gradient colors are http://uigradients.com and http://jxnblk.com/shade/.
 
-## Creator
+# Using with Jekyll
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+If you'd like to use this theme with Jekyll, Pietro Menna has put together a package to make it easy. You can find it at https://github.com/pietromenna/jekyll-cayman-theme
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+# License
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-new-age/blob/gh-pages/LICENSE) license.
+This work is licensed under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license.
